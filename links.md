@@ -15,3 +15,4 @@
 ## Прочее
 
 1. [Руководство по markdown](https://paulradzkov.com/2014/markdown_cheatsheet/)
+1. [Тема minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)
