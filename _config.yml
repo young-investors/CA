@@ -1,1 +1,7 @@
-theme: jekyll-theme-slate
+theme: bay_jekyll_theme
+
+header:
+  pages:
+    - name: Home
+      slug: /     # <-- index.md
+    - name: Links  # <-- links.md
