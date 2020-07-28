@@ -1,7 +1,7 @@
 ---
 title: "First Post"
 excerpt: "Первый шаблонный пост"
-layout: single
+layout: #single
 #Author
 author: NP #VM
 author_profile: true #false
