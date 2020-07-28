@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Ссылки"
-    url  : "/_pages/links"
+    url  : "/links/"
   - title: "Все посты"
-    url  : "/_pages/all_posts/" 
+    url  : "/all_posts/" 
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
