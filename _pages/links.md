@@ -8,7 +8,7 @@
 
 ## Информация
 
-1. [Список акций российских компаний](https://ru.investing.com/stock-screener/?sp=country::56|sector::a|industry::a|equityType::a|exchange::40%3Cindustry_trans;5)
+1. [Список акций компаний](https://ru.investing.com/stock-screener)
 1. [Раскрытие информации (e-disclosure.ru)](https://www.e-disclosure.ru/)
 
 

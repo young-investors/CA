@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Ссылки"
-    url  : "/links"
+    url  : "/_pages/links"
   - title: "Шаблон"
     url  : "/reports/template/" 
   # - title: "Sample Posts"
