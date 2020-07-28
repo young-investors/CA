@@ -1,7 +1,14 @@
 ---
+title: "First Post"
 layout: single
-title : first post
 author: NP #VM
+author_profile: true #false
+header:
+  image: /sources/fosagro/andre-robillard-IUwLkxL49co-unsplash.jpg
+  caption: "https://unsplash.com/photos/IUwLkxL49co"
+tags:
+  - company analysis
+  - chemical industry
 ---
 
 # First Post
