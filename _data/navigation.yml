@@ -10,3 +10,14 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+
+# Site Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: https://github.com/young-investors/CA
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: https://instagram.com/young-investors-CA
