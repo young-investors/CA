@@ -2,8 +2,8 @@
 main:
   - title: "Ссылки"
     url  : "/_pages/links"
-  - title: "Шаблон"
-    url  : "/reports/template/" 
+  - title: "Все посты"
+    url  : "/_pages/all_posts/" 
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
@@ -11,13 +11,12 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/young-investors/CA
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: https://instagram.com/young-investors-CA
+    - label: #"Instagram"
+      icon: #"fab fa-fw fa-instagram"
+      url: #https://instagram.com/young-investors-CA
