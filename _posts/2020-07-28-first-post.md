@@ -6,8 +6,9 @@ layout: single
 author: NP #VM
 author_profile: true #false
 #Header image
+tagline: Строка под заголовком
 header:
-  image: /sources/fosagro/andre-robillard-IUwLkxL49co-unsplash.jpg
+  image: /sources/fosagro/chemical_industry.jpg
   overlay_filter: 0.5
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
