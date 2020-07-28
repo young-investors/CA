@@ -12,7 +12,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Learn more"
-      url: "https://unsplash.com/photos/IUwLkxL49co"
+    - url: "https://unsplash.com/photos/IUwLkxL49co"
 #Tags
 tags:
   - company analysis
