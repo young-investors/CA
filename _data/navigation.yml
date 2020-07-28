@@ -2,8 +2,8 @@
 main:
   - title: "Ссылки"
     url  : "/links"
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Шаблон"
+    url  : "/reports/template/" 
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
