@@ -2,6 +2,7 @@
 permalink: /reports/template/
 title: template post
 author: NP #VM
+author_profile: true
 ---
 
 
