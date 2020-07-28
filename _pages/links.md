@@ -1,4 +1,8 @@
-# Полезные ссылки
+---
+title: "Полезные ссылки"
+layout: single
+permalink: /links/
+---
 
 ## Анализ
 
