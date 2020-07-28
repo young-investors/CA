@@ -1,6 +1,6 @@
 ---
 permalink: /reports/template/
-layout: post
+layout: single
 title: template post
 author: NP #VM
 author_profile: true
