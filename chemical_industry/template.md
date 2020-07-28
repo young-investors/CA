@@ -1,3 +1,10 @@
+---
+permalink: /reports/template/
+title: template post
+author: NP #VM
+---
+
+
 # Сектор / Компания
 
 ### Динамика выручки и капитала
