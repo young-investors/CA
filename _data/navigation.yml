@@ -2,10 +2,10 @@
 main:
   - title: "Ссылки"
     url  : "/links/"
+  - title: "Термины"
+    url  : "/terms/"
   - title: "Все посты"
     url  : "/all_posts/" 
-  # - title: "Sample Posts"
-  #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

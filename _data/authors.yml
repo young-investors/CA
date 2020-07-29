@@ -2,7 +2,7 @@
 
 NP:
   name        : "Nikita"
-  bio         : "What do you want?"
+  bio         : "Young investor"
   avatar      : #"/assets/images/bio-photo-2.jpg"
   links:
     - label: #"Email"
@@ -11,15 +11,18 @@ NP:
     - label: #"Website"
       icon: #"fas fa-fw fa-link"
       url: #"https://thewhip.com"
-    - label: #"Twitter"
-      icon: #"fab fa-fw fa-twitter-square"
-      url: #"https://twitter.com/extravagantman"
+    - label: "Github"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/nikita-p"
 
 VM:
   name        : "Vyacheslav"
-  bio         : "I ordered what?"
+  bio         : "Young investor"
   avatar      : #"/assets/images/bio-photo.jpg"
   links:
+    - label: "Github"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/VyacheslavMishin"
     - label: #"Email"
       icon: #"fas fa-fw fa-envelope-square"
       url: #"mailto:cornelius@thewhip.com"
