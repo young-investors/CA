@@ -6,6 +6,7 @@ permalink: /links/
 
 ## Анализ
 
+1. [А как инвестировать](https://journal.tinkoff.ru/pro/invest/) (Т - Ж)
 1. [Как оценивать стоимость компании](https://journal.tinkoff.ru/razum/) (Т - Ж)
 1. [Что такое мультипликаторы](https://journal.tinkoff.ru/multilplicator/) (Т - Ж)
 1. [Вредный инвестор](https://www.youtube.com/channel/UCbhXz_OPX3B0eTimt24PGVQ) (Youtube)
