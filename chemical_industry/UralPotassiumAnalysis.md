@@ -1,9 +1,11 @@
-# Сектор / Компания
+# Хим. индустрия (удобрения) / УралКалий
 
 ### Динамика выручки и капитала
-![](../sources/UralPotassium/UralPotassium_proceeds.png)
+![](../sources/UralPotassium/Ural_potassium_proceeds.png)
 
-![](../sources/UralPotassium/UralPotassium_capital.png)
+![](../sources/UralPotassium/Ural_potassium_capital.png)
+
+блалалаллы
 
 ### Динамика обязательств
 
