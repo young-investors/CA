@@ -1,7 +1,9 @@
 # Сектор / Компания
 
 ### Динамика выручки и капитала
-![](../sources/fosagro/fosagro_logo.jpg)
+![](../sources/UralPotassium/UralPotassium_proceeds.png)
+
+![](../sources/UralPotassium/UralPotassium_capital.png)
 
 ### Динамика обязательств
 
