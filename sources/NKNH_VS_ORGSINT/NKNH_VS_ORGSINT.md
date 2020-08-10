@@ -8,10 +8,12 @@ author_profile: true
 ---
 
 
-# Сектор / Компания
+# Химическая промышленность / Нижнекамскнефтехим и Казаньоргсинтез (NKNH and ORGSINT)
 
 ### Динамика выручки и капитала
-![](sources/fosagro/fosagro_logo.jpg)
+![](sources/NKNH_VS_ORGSINT/Proceeds.png)
+
+![](sources/NKNH_VS_ORGSINT/Capital.png)
 
 ### Динамика обязательств
 
