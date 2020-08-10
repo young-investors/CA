@@ -11,9 +11,9 @@ author_profile: true
 # Хим. промышленность / Нижнекамскнефтехим и Казаньоргсинтез (NKNH vs ORGSINT)
 
 ### Динамика выручки и капитала
-![](sources/"NKNH vs ORGSINT"/Proceeds.png)
+![](Proceeds.png)
 
-![](sources/"NKNH vs ORGSINT"/Capital.png)
+![](Capital.png)
 
 ### Динамика обязательств
 
