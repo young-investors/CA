@@ -8,10 +8,12 @@ author_profile: true
 ---
 
 
-# Хим. промышленность / Нижнекамскнефтехим и Казаньоргсинтез
+# Хим. промышленность / Нижнекамскнефтехим и Казаньоргсинтез (NKNH vs ORGSINT)
 
 ### Динамика выручки и капитала
-![](sources/fosagro/fosagro_logo.jpg)
+![](sources/"NKNH vs ORGSINT"/Proceeds.png)
+
+![](sources/"NKNH vs ORGSINT"/Capital.png)
 
 ### Динамика обязательств
 
