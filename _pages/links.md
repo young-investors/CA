@@ -17,7 +17,7 @@ permalink: /links/
 1. [Список акций компаний (investing.com)](https://ru.investing.com/stock-screener)
 1. [Раскрытие информации (e-disclosure.ru)](https://www.e-disclosure.ru/)
 1. [Фундаментальный анализ (smart-lab.ru)](https://smart-lab.ru/q/shares_fundamental/)
-1. [Поиск и сравнение акций (tezis.io)](https://tezis.io)
+1. [Поиск и сравнение акций (tezis.io -> gazprombank.investments)](https://gazprombank.investments/)
 
 
 ## Прочее
