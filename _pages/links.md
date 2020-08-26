@@ -10,6 +10,7 @@ permalink: /links/
 1. [Как оценивать стоимость компании](https://journal.tinkoff.ru/razum/) (Т - Ж)
 1. [Что такое мультипликаторы](https://journal.tinkoff.ru/multilplicator/) (Т - Ж)
 1. [Вредный инвестор](https://www.youtube.com/channel/UCbhXz_OPX3B0eTimt24PGVQ) (Youtube)
+1. Пошаговое построение базовой модели DCF ([1](https://blog.sf.education/poshagovoe-postroenie-bazovoj-modeli-dcf/), [2](https://blog.sf.education/poshagovoe-postroenie-bazovoj-modeli-dcf-chast-2-prognozirovanie/), [3](https://blog.sf.education/poshagovoe-postroenie-bazovoj-modeli-dcf-chast-3-%e2%88%86-nwc-fcff-terminal-value-total-enterprise-value/))
 
 
 ## Информация
