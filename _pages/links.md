@@ -15,10 +15,11 @@ permalink: /links/
 
 ## Информация
 
-1. [Список акций компаний (investing.com)](https://ru.investing.com/stock-screener)
-1. [Раскрытие информации (e-disclosure.ru)](https://www.e-disclosure.ru/)
-1. [Фундаментальный анализ (smart-lab.ru)](https://smart-lab.ru/q/shares_fundamental/)
-1. [Поиск и сравнение акций (tezis.io -> gazprombank.investments)](https://gazprombank.investments/)
+1. [Список акций компаний](https://ru.investing.com/stock-screener) (investing.com)
+1. [Раскрытие информации](https://www.e-disclosure.ru/) (e-disclosure.ru)
+1. [Фундаментальный анализ](https://smart-lab.ru/q/shares_fundamental/) (smart-lab.ru)
+1. [Поиск и сравнение акций](https://gazprombank.investments/) (gazprombank.investments)
+1. [Дивиденды и анализ акций](https://www.dohod.ru/ik/analytics/dividend) (dohod.ru)
 
 
 ## Прочее
