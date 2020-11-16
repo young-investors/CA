@@ -15,6 +15,7 @@ permalink: /links/
 
 ## Информация
 
+1. [Всё об акциях](https://www.conomy.ru) (conomy.ru)
 1. [Список акций компаний](https://ru.investing.com/stock-screener) (investing.com)
 1. [Раскрытие информации](https://www.e-disclosure.ru/) (e-disclosure.ru)
 1. [Фундаментальный анализ](https://smart-lab.ru/q/shares_fundamental/) (smart-lab.ru)
